@@ -1,1 +1,1 @@
-Flask project with mongodb
+Flask project with Docker container implementation
