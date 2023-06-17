@@ -1,1 +1,1 @@
-# 3rdExercise
+Flask project with mongodb
